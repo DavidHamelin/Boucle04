@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\obj\Debug\Boucle04.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\bin\Debug\Boucle04.exe.config
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\bin\Debug\Boucle04.exe
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\bin\Debug\Boucle04.pdb
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\obj\Debug\Boucle04.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\obj\Debug\Boucle04.exe
+C:\Users\Dell\source\repos\LesBoucles\Boucle04\obj\Debug\Boucle04.pdb
